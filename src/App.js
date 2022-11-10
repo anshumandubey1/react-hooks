@@ -1,11 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
+import { useState } from 'react';
 
 function App() {
-  let count = 0;
+  const [count, setCount] = useState(0);
 
   const increaseCount = (event) => {
-    count++;
+    setCount(count+1);
     console.log('count:', count)
   }
 
