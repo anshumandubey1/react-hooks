@@ -1,15 +1,30 @@
 import logo from './logo.svg';
 import './App.css';
-import { useState } from 'react';
+import { useReducer } from 'react';
 import Shades from './components/shades';
 import CountContext from './contexts/countContext';
 
+const reducer = (count, action) => {
+  // console.log({count, action})
+  switch (action.type) { 
+    case 'increment':
+      return (count + 101)%100;
+    case 'decrement':
+      return (count + 99)%100;
+    default:
+      throw new Error();
+  }
+}
+
 function App() {
-  const [count, setCount] = useState(0);
+  const [count, dispatch] = useReducer(reducer, 0);
 
   const increaseCount = () => {
-    setCount((count+1)%100);
-    console.log('count:', count)
+    dispatch({type: 'increment'});
+  }
+
+  const decreaseCount = () => {
+    dispatch({type: 'decrement'});
   }
 
   return (
@@ -17,8 +32,11 @@ function App() {
       <div className="App">
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
-          <button onClick={increaseCount}>Increase Count</button>
-          <Shades></Shades>
+          <div className='buttons'>
+            <button onClick={increaseCount}>Increase Count</button>
+            <button onClick={decreaseCount}>Decrease Count</button>
+          </div>
+          <Shades/>
         </header>
       </div>
     </CountContext.Provider>

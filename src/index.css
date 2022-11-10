@@ -48,3 +48,7 @@ button:hover {
   font-size: 160px;
   border-radius: 5%;
 }
+
+.buttons {
+  display: flex;
+}
