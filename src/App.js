@@ -1,12 +1,13 @@
 import logo from './logo.svg';
 import './App.css';
 import { useState } from 'react';
+import Shades from './components/shades';
 
 function App() {
   const [count, setCount] = useState(0);
 
-  const increaseCount = (event) => {
-    setCount(count+1);
+  const increaseCount = () => {
+    setCount((count+1)%100);
     console.log('count:', count)
   }
 
@@ -15,9 +16,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <button onClick={increaseCount}>Increase Count</button>
-        <p>
-          Count: {count}
-        </p>
+        <Shades value={count}></Shades>
       </header>
     </div>
   );
