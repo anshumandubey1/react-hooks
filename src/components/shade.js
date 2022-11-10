@@ -1,7 +1,9 @@
-import React, { useEffect, useState } from 'react'
+import React, { useContext, useEffect, useState } from 'react'
+import CountContext from '../contexts/countContext';
 
-function Shade({value}) {
+function Shade() {
     const [color, setColor] = useState('#000000')
+    const value = useContext(CountContext);
 
     useEffect(() => {
         changeColor();
@@ -19,7 +21,7 @@ function Shade({value}) {
         setColor(`rgb(${red},${green},${blue})`);
     }
     return (
-        <div className='shade' style={{backgroundColor: color}}>{value}</div>
+        <div className='shade' style={{backgroundColor: color}}>{value}</div>  
     )
 }
 

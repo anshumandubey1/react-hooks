@@ -1,14 +1,14 @@
 import React from 'react'
 import Shade from './shade';
 
-function Shades({value}) {
+function Shades() {
 
     return (
         <div className='shades'>
-            <Shade value={value}/>
-            <Shade value={value}/>
-            <Shade value={value}/>
-            <Shade value={value}/>
+            <Shade/>
+            <Shade/>
+            <Shade/>
+            <Shade/>
         </div>
     )
 }

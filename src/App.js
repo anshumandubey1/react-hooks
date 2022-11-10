@@ -2,6 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 import { useState } from 'react';
 import Shades from './components/shades';
+import CountContext from './contexts/countContext';
 
 function App() {
   const [count, setCount] = useState(0);
@@ -12,13 +13,16 @@ function App() {
   }
 
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <button onClick={increaseCount}>Increase Count</button>
-        <Shades value={count}></Shades>
-      </header>
-    </div>
+    <CountContext.Provider value={count}>
+      <div className="App">
+        <header className="App-header">
+          <img src={logo} className="App-logo" alt="logo" />
+          <button onClick={increaseCount}>Increase Count</button>
+          <Shades></Shades>
+        </header>
+      </div>
+    </CountContext.Provider>
+    
   );
 }
 
