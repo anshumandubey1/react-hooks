@@ -1,5 +1,5 @@
 import React, { useContext, useEffect, useState } from 'react'
-import CountContext from '../contexts/countContext';
+import CountContext from '../../contexts/countContext';
 
 function Shade() {
     const [color, setColor] = useState('#000000')

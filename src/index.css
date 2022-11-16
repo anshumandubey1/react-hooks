@@ -1,3 +1,8 @@
+a {
+  color: inherit; /* blue colors for links too */
+  text-decoration: inherit; /* no underline */
+}
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -51,4 +56,35 @@ button:hover {
 
 .buttons {
   display: flex;
+}
+
+nav {
+  /* position: fixed; */
+  background-color: #000;
+  height: 50px;
+  width: 30vw;
+  padding: 20px 20px 20px 70vw;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  align-content: center;
+  font-size: 24px;
+  color: #fff;
+}
+
+li {
+  list-style: none;
+  padding: 5px 12px;
+}
+
+li.active {
+  color: #000;
+  border: 2px solid white;
+  background: #fff;
+  padding: 3px 10px;
+}
+
+li:hover {
+  border: 2px solid white;
+  padding: 3px 10px;
 }
