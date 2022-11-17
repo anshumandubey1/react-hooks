@@ -88,3 +88,20 @@ li:hover {
   border: 2px solid white;
   padding: 3px 10px;
 }
+
+.mapPage {
+  margin: 0px 10vw;
+  height: 100vh;
+}
+
+.leaflet-container {
+  width: 80vw;
+  height: 50vh;
+}
+/* .map {
+  display: block;
+  width: 80vw;
+  height: 50vh;
+  background-color: black;
+  padding: 1rem;
+} */
