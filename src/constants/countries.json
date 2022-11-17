@@ -1,0 +1,1731 @@
+[
+    {
+        "latlng": [
+            12.5,
+            -69.96666666
+        ],
+        "name": "Aruba"
+    },
+    {
+        "latlng": [
+            33,
+            65
+        ],
+        "name": "Afghanistan"
+    },
+    {
+        "latlng": [
+            -12.5,
+            18.5
+        ],
+        "name": "Angola"
+    },
+    {
+        "latlng": [
+            18.25,
+            -63.16666666
+        ],
+        "name": "Anguilla"
+    },
+    {
+        "latlng": [
+            60.116667,
+            19.9
+        ],
+        "name": "Åland Islands"
+    },
+    {
+        "latlng": [
+            41,
+            20
+        ],
+        "name": "Albania"
+    },
+    {
+        "latlng": [
+            42.5,
+            1.5
+        ],
+        "name": "Andorra"
+    },
+    {
+        "latlng": [
+            24,
+            54
+        ],
+        "name": "United Arab Emirates"
+    },
+    {
+        "latlng": [
+            -34,
+            -64
+        ],
+        "name": "Argentina"
+    },
+    {
+        "latlng": [
+            40,
+            45
+        ],
+        "name": "Armenia"
+    },
+    {
+        "latlng": [
+            -14.33333333,
+            -170
+        ],
+        "name": "American Samoa"
+    },
+    {
+        "latlng": [
+            -90,
+            0
+        ],
+        "name": "Antarctica"
+    },
+    {
+        "latlng": [
+            -49.25,
+            69.167
+        ],
+        "name": "French Southern and Antarctic Lands"
+    },
+    {
+        "latlng": [
+            17.05,
+            -61.8
+        ],
+        "name": "Antigua and Barbuda"
+    },
+    {
+        "latlng": [
+            -27,
+            133
+        ],
+        "name": "Australia"
+    },
+    {
+        "latlng": [
+            47.33333333,
+            13.33333333
+        ],
+        "name": "Austria"
+    },
+    {
+        "latlng": [
+            40.5,
+            47.5
+        ],
+        "name": "Azerbaijan"
+    },
+    {
+        "latlng": [
+            -3.5,
+            30
+        ],
+        "name": "Burundi"
+    },
+    {
+        "latlng": [
+            50.83333333,
+            4
+        ],
+        "name": "Belgium"
+    },
+    {
+        "latlng": [
+            9.5,
+            2.25
+        ],
+        "name": "Benin"
+    },
+    {
+        "latlng": [
+            13,
+            -2
+        ],
+        "name": "Burkina Faso"
+    },
+    {
+        "latlng": [
+            24,
+            90
+        ],
+        "name": "Bangladesh"
+    },
+    {
+        "latlng": [
+            43,
+            25
+        ],
+        "name": "Bulgaria"
+    },
+    {
+        "latlng": [
+            26,
+            50.55
+        ],
+        "name": "Bahrain"
+    },
+    {
+        "latlng": [
+            24.25,
+            -76
+        ],
+        "name": "Bahamas"
+    },
+    {
+        "latlng": [
+            44,
+            18
+        ],
+        "name": "Bosnia and Herzegovina"
+    },
+    {
+        "latlng": [
+            18.5,
+            -63.41666666
+        ],
+        "name": "Saint Barthélemy"
+    },
+    {
+        "latlng": [
+            53,
+            28
+        ],
+        "name": "Belarus"
+    },
+    {
+        "latlng": [
+            17.25,
+            -88.75
+        ],
+        "name": "Belize"
+    },
+    {
+        "latlng": [
+            32.33333333,
+            -64.75
+        ],
+        "name": "Bermuda"
+    },
+    {
+        "latlng": [
+            -17,
+            -65
+        ],
+        "name": "Bolivia"
+    },
+    {
+        "latlng": [
+            -10,
+            -55
+        ],
+        "name": "Brazil"
+    },
+    {
+        "latlng": [
+            13.16666666,
+            -59.53333333
+        ],
+        "name": "Barbados"
+    },
+    {
+        "latlng": [
+            4.5,
+            114.66666666
+        ],
+        "name": "Brunei"
+    },
+    {
+        "latlng": [
+            27.5,
+            90.5
+        ],
+        "name": "Bhutan"
+    },
+    {
+        "latlng": [
+            -54.43333333,
+            3.4
+        ],
+        "name": "Bouvet Island"
+    },
+    {
+        "latlng": [
+            -22,
+            24
+        ],
+        "name": "Botswana"
+    },
+    {
+        "latlng": [
+            7,
+            21
+        ],
+        "name": "Central African Republic"
+    },
+    {
+        "latlng": [
+            60,
+            -95
+        ],
+        "name": "Canada"
+    },
+    {
+        "latlng": [
+            -12.5,
+            96.83333333
+        ],
+        "name": "Cocos (Keeling) Islands"
+    },
+    {
+        "latlng": [
+            47,
+            8
+        ],
+        "name": "Switzerland"
+    },
+    {
+        "latlng": [
+            -30,
+            -71
+        ],
+        "name": "Chile"
+    },
+    {
+        "latlng": [
+            35,
+            105
+        ],
+        "name": "China"
+    },
+    {
+        "latlng": [
+            8,
+            -5
+        ],
+        "name": "Ivory Coast"
+    },
+    {
+        "latlng": [
+            6,
+            12
+        ],
+        "name": "Cameroon"
+    },
+    {
+        "latlng": [
+            0,
+            25
+        ],
+        "name": "DR Congo"
+    },
+    {
+        "latlng": [
+            -1,
+            15
+        ],
+        "name": "Republic of the Congo"
+    },
+    {
+        "latlng": [
+            -21.23333333,
+            -159.76666666
+        ],
+        "name": "Cook Islands"
+    },
+    {
+        "latlng": [
+            4,
+            -72
+        ],
+        "name": "Colombia"
+    },
+    {
+        "latlng": [
+            -12.16666666,
+            44.25
+        ],
+        "name": "Comoros"
+    },
+    {
+        "latlng": [
+            16,
+            -24
+        ],
+        "name": "Cape Verde"
+    },
+    {
+        "latlng": [
+            10,
+            -84
+        ],
+        "name": "Costa Rica"
+    },
+    {
+        "latlng": [
+            21.5,
+            -80
+        ],
+        "name": "Cuba"
+    },
+    {
+        "latlng": [
+            12.116667,
+            -68.933333
+        ],
+        "name": "Curaçao"
+    },
+    {
+        "latlng": [
+            -10.5,
+            105.66666666
+        ],
+        "name": "Christmas Island"
+    },
+    {
+        "latlng": [
+            19.5,
+            -80.5
+        ],
+        "name": "Cayman Islands"
+    },
+    {
+        "latlng": [
+            35,
+            33
+        ],
+        "name": "Cyprus"
+    },
+    {
+        "latlng": [
+            49.75,
+            15.5
+        ],
+        "name": "Czech Republic"
+    },
+    {
+        "latlng": [
+            51,
+            9
+        ],
+        "name": "Germany"
+    },
+    {
+        "latlng": [
+            11.5,
+            43
+        ],
+        "name": "Djibouti"
+    },
+    {
+        "latlng": [
+            15.41666666,
+            -61.33333333
+        ],
+        "name": "Dominica"
+    },
+    {
+        "latlng": [
+            56,
+            10
+        ],
+        "name": "Denmark"
+    },
+    {
+        "latlng": [
+            19,
+            -70.66666666
+        ],
+        "name": "Dominican Republic"
+    },
+    {
+        "latlng": [
+            28,
+            3
+        ],
+        "name": "Algeria"
+    },
+    {
+        "latlng": [
+            -2,
+            -77.5
+        ],
+        "name": "Ecuador"
+    },
+    {
+        "latlng": [
+            27,
+            30
+        ],
+        "name": "Egypt"
+    },
+    {
+        "latlng": [
+            15,
+            39
+        ],
+        "name": "Eritrea"
+    },
+    {
+        "latlng": [
+            24.5,
+            -13
+        ],
+        "name": "Western Sahara"
+    },
+    {
+        "latlng": [
+            40,
+            -4
+        ],
+        "name": "Spain"
+    },
+    {
+        "latlng": [
+            59,
+            26
+        ],
+        "name": "Estonia"
+    },
+    {
+        "latlng": [
+            8,
+            38
+        ],
+        "name": "Ethiopia"
+    },
+    {
+        "latlng": [
+            64,
+            26
+        ],
+        "name": "Finland"
+    },
+    {
+        "latlng": [
+            -18,
+            175
+        ],
+        "name": "Fiji"
+    },
+    {
+        "latlng": [
+            -51.75,
+            -59
+        ],
+        "name": "Falkland Islands"
+    },
+    {
+        "latlng": [
+            46,
+            2
+        ],
+        "name": "France"
+    },
+    {
+        "latlng": [
+            62,
+            -7
+        ],
+        "name": "Faroe Islands"
+    },
+    {
+        "latlng": [
+            6.91666666,
+            158.25
+        ],
+        "name": "Micronesia"
+    },
+    {
+        "latlng": [
+            -1,
+            11.75
+        ],
+        "name": "Gabon"
+    },
+    {
+        "latlng": [
+            54,
+            -2
+        ],
+        "name": "United Kingdom"
+    },
+    {
+        "latlng": [
+            42,
+            43.5
+        ],
+        "name": "Georgia"
+    },
+    {
+        "latlng": [
+            49.46666666,
+            -2.58333333
+        ],
+        "name": "Guernsey"
+    },
+    {
+        "latlng": [
+            8,
+            -2
+        ],
+        "name": "Ghana"
+    },
+    {
+        "latlng": [
+            36.13333333,
+            -5.35
+        ],
+        "name": "Gibraltar"
+    },
+    {
+        "latlng": [
+            11,
+            -10
+        ],
+        "name": "Guinea"
+    },
+    {
+        "latlng": [
+            16.25,
+            -61.583333
+        ],
+        "name": "Guadeloupe"
+    },
+    {
+        "latlng": [
+            13.46666666,
+            -16.56666666
+        ],
+        "name": "Gambia"
+    },
+    {
+        "latlng": [
+            12,
+            -15
+        ],
+        "name": "Guinea-Bissau"
+    },
+    {
+        "latlng": [
+            2,
+            10
+        ],
+        "name": "Equatorial Guinea"
+    },
+    {
+        "latlng": [
+            39,
+            22
+        ],
+        "name": "Greece"
+    },
+    {
+        "latlng": [
+            12.11666666,
+            -61.66666666
+        ],
+        "name": "Grenada"
+    },
+    {
+        "latlng": [
+            72,
+            -40
+        ],
+        "name": "Greenland"
+    },
+    {
+        "latlng": [
+            15.5,
+            -90.25
+        ],
+        "name": "Guatemala"
+    },
+    {
+        "latlng": [
+            4,
+            -53
+        ],
+        "name": "French Guiana"
+    },
+    {
+        "latlng": [
+            13.46666666,
+            144.78333333
+        ],
+        "name": "Guam"
+    },
+    {
+        "latlng": [
+            5,
+            -59
+        ],
+        "name": "Guyana"
+    },
+    {
+        "latlng": [
+            22.267,
+            114.188
+        ],
+        "name": "Hong Kong"
+    },
+    {
+        "latlng": [
+            15,
+            -86.5
+        ],
+        "name": "Honduras"
+    },
+    {
+        "latlng": [
+            45.16666666,
+            15.5
+        ],
+        "name": "Croatia"
+    },
+    {
+        "latlng": [
+            19,
+            -72.41666666
+        ],
+        "name": "Haiti"
+    },
+    {
+        "latlng": [
+            47,
+            20
+        ],
+        "name": "Hungary"
+    },
+    {
+        "latlng": [
+            -5,
+            120
+        ],
+        "name": "Indonesia"
+    },
+    {
+        "latlng": [
+            54.25,
+            -4.5
+        ],
+        "name": "Isle of Man"
+    },
+    {
+        "latlng": [
+            20,
+            77
+        ],
+        "name": "India"
+    },
+    {
+        "latlng": [
+            -6,
+            71.5
+        ],
+        "name": "British Indian Ocean Territory"
+    },
+    {
+        "latlng": [
+            53,
+            -8
+        ],
+        "name": "Ireland"
+    },
+    {
+        "latlng": [
+            32,
+            53
+        ],
+        "name": "Iran"
+    },
+    {
+        "latlng": [
+            33,
+            44
+        ],
+        "name": "Iraq"
+    },
+    {
+        "latlng": [
+            65,
+            -18
+        ],
+        "name": "Iceland"
+    },
+    {
+        "latlng": [
+            31.47,
+            35.13
+        ],
+        "name": "Israel"
+    },
+    {
+        "latlng": [
+            42.83333333,
+            12.83333333
+        ],
+        "name": "Italy"
+    },
+    {
+        "latlng": [
+            18.25,
+            -77.5
+        ],
+        "name": "Jamaica"
+    },
+    {
+        "latlng": [
+            49.25,
+            -2.16666666
+        ],
+        "name": "Jersey"
+    },
+    {
+        "latlng": [
+            31,
+            36
+        ],
+        "name": "Jordan"
+    },
+    {
+        "latlng": [
+            36,
+            138
+        ],
+        "name": "Japan"
+    },
+    {
+        "latlng": [
+            48,
+            68
+        ],
+        "name": "Kazakhstan"
+    },
+    {
+        "latlng": [
+            1,
+            38
+        ],
+        "name": "Kenya"
+    },
+    {
+        "latlng": [
+            41,
+            75
+        ],
+        "name": "Kyrgyzstan"
+    },
+    {
+        "latlng": [
+            13,
+            105
+        ],
+        "name": "Cambodia"
+    },
+    {
+        "latlng": [
+            1.41666666,
+            173
+        ],
+        "name": "Kiribati"
+    },
+    {
+        "latlng": [
+            17.33333333,
+            -62.75
+        ],
+        "name": "Saint Kitts and Nevis"
+    },
+    {
+        "latlng": [
+            37,
+            127.5
+        ],
+        "name": "South Korea"
+    },
+    {
+        "latlng": [
+            42.666667,
+            21.166667
+        ],
+        "name": "Kosovo"
+    },
+    {
+        "latlng": [
+            29.5,
+            45.75
+        ],
+        "name": "Kuwait"
+    },
+    {
+        "latlng": [
+            18,
+            105
+        ],
+        "name": "Laos"
+    },
+    {
+        "latlng": [
+            33.83333333,
+            35.83333333
+        ],
+        "name": "Lebanon"
+    },
+    {
+        "latlng": [
+            6.5,
+            -9.5
+        ],
+        "name": "Liberia"
+    },
+    {
+        "latlng": [
+            25,
+            17
+        ],
+        "name": "Libya"
+    },
+    {
+        "latlng": [
+            13.88333333,
+            -60.96666666
+        ],
+        "name": "Saint Lucia"
+    },
+    {
+        "latlng": [
+            47.26666666,
+            9.53333333
+        ],
+        "name": "Liechtenstein"
+    },
+    {
+        "latlng": [
+            7,
+            81
+        ],
+        "name": "Sri Lanka"
+    },
+    {
+        "latlng": [
+            -29.5,
+            28.5
+        ],
+        "name": "Lesotho"
+    },
+    {
+        "latlng": [
+            56,
+            24
+        ],
+        "name": "Lithuania"
+    },
+    {
+        "latlng": [
+            49.75,
+            6.16666666
+        ],
+        "name": "Luxembourg"
+    },
+    {
+        "latlng": [
+            57,
+            25
+        ],
+        "name": "Latvia"
+    },
+    {
+        "latlng": [
+            22.16666666,
+            113.55
+        ],
+        "name": "Macau"
+    },
+    {
+        "latlng": [
+            18.08333333,
+            -63.95
+        ],
+        "name": "Saint Martin"
+    },
+    {
+        "latlng": [
+            32,
+            -5
+        ],
+        "name": "Morocco"
+    },
+    {
+        "latlng": [
+            43.73333333,
+            7.4
+        ],
+        "name": "Monaco"
+    },
+    {
+        "latlng": [
+            47,
+            29
+        ],
+        "name": "Moldova"
+    },
+    {
+        "latlng": [
+            -20,
+            47
+        ],
+        "name": "Madagascar"
+    },
+    {
+        "latlng": [
+            3.25,
+            73
+        ],
+        "name": "Maldives"
+    },
+    {
+        "latlng": [
+            23,
+            -102
+        ],
+        "name": "Mexico"
+    },
+    {
+        "latlng": [
+            9,
+            168
+        ],
+        "name": "Marshall Islands"
+    },
+    {
+        "latlng": [
+            41.83333333,
+            22
+        ],
+        "name": "Macedonia"
+    },
+    {
+        "latlng": [
+            17,
+            -4
+        ],
+        "name": "Mali"
+    },
+    {
+        "latlng": [
+            35.83333333,
+            14.58333333
+        ],
+        "name": "Malta"
+    },
+    {
+        "latlng": [
+            22,
+            98
+        ],
+        "name": "Myanmar"
+    },
+    {
+        "latlng": [
+            42.5,
+            19.3
+        ],
+        "name": "Montenegro"
+    },
+    {
+        "latlng": [
+            46,
+            105
+        ],
+        "name": "Mongolia"
+    },
+    {
+        "latlng": [
+            15.2,
+            145.75
+        ],
+        "name": "Northern Mariana Islands"
+    },
+    {
+        "latlng": [
+            -18.25,
+            35
+        ],
+        "name": "Mozambique"
+    },
+    {
+        "latlng": [
+            20,
+            -12
+        ],
+        "name": "Mauritania"
+    },
+    {
+        "latlng": [
+            16.75,
+            -62.2
+        ],
+        "name": "Montserrat"
+    },
+    {
+        "latlng": [
+            14.666667,
+            -61
+        ],
+        "name": "Martinique"
+    },
+    {
+        "latlng": [
+            -20.28333333,
+            57.55
+        ],
+        "name": "Mauritius"
+    },
+    {
+        "latlng": [
+            -13.5,
+            34
+        ],
+        "name": "Malawi"
+    },
+    {
+        "latlng": [
+            2.5,
+            112.5
+        ],
+        "name": "Malaysia"
+    },
+    {
+        "latlng": [
+            -12.83333333,
+            45.16666666
+        ],
+        "name": "Mayotte"
+    },
+    {
+        "latlng": [
+            -22,
+            17
+        ],
+        "name": "Namibia"
+    },
+    {
+        "latlng": [
+            -21.5,
+            165.5
+        ],
+        "name": "New Caledonia"
+    },
+    {
+        "latlng": [
+            16,
+            8
+        ],
+        "name": "Niger"
+    },
+    {
+        "latlng": [
+            -29.03333333,
+            167.95
+        ],
+        "name": "Norfolk Island"
+    },
+    {
+        "latlng": [
+            10,
+            8
+        ],
+        "name": "Nigeria"
+    },
+    {
+        "latlng": [
+            13,
+            -85
+        ],
+        "name": "Nicaragua"
+    },
+    {
+        "latlng": [
+            -19.03333333,
+            -169.86666666
+        ],
+        "name": "Niue"
+    },
+    {
+        "latlng": [
+            52.5,
+            5.75
+        ],
+        "name": "Netherlands"
+    },
+    {
+        "latlng": [
+            62,
+            10
+        ],
+        "name": "Norway"
+    },
+    {
+        "latlng": [
+            28,
+            84
+        ],
+        "name": "Nepal"
+    },
+    {
+        "latlng": [
+            -0.53333333,
+            166.91666666
+        ],
+        "name": "Nauru"
+    },
+    {
+        "latlng": [
+            -41,
+            174
+        ],
+        "name": "New Zealand"
+    },
+    {
+        "latlng": [
+            21,
+            57
+        ],
+        "name": "Oman"
+    },
+    {
+        "latlng": [
+            30,
+            70
+        ],
+        "name": "Pakistan"
+    },
+    {
+        "latlng": [
+            9,
+            -80
+        ],
+        "name": "Panama"
+    },
+    {
+        "latlng": [
+            -25.06666666,
+            -130.1
+        ],
+        "name": "Pitcairn Islands"
+    },
+    {
+        "latlng": [
+            -10,
+            -76
+        ],
+        "name": "Peru"
+    },
+    {
+        "latlng": [
+            13,
+            122
+        ],
+        "name": "Philippines"
+    },
+    {
+        "latlng": [
+            7.5,
+            134.5
+        ],
+        "name": "Palau"
+    },
+    {
+        "latlng": [
+            -6,
+            147
+        ],
+        "name": "Papua New Guinea"
+    },
+    {
+        "latlng": [
+            52,
+            20
+        ],
+        "name": "Poland"
+    },
+    {
+        "latlng": [
+            18.25,
+            -66.5
+        ],
+        "name": "Puerto Rico"
+    },
+    {
+        "latlng": [
+            40,
+            127
+        ],
+        "name": "North Korea"
+    },
+    {
+        "latlng": [
+            39.5,
+            -8
+        ],
+        "name": "Portugal"
+    },
+    {
+        "latlng": [
+            -23,
+            -58
+        ],
+        "name": "Paraguay"
+    },
+    {
+        "latlng": [
+            31.9,
+            35.2
+        ],
+        "name": "Palestine"
+    },
+    {
+        "latlng": [
+            -15,
+            -140
+        ],
+        "name": "French Polynesia"
+    },
+    {
+        "latlng": [
+            25.5,
+            51.25
+        ],
+        "name": "Qatar"
+    },
+    {
+        "latlng": [
+            -21.15,
+            55.5
+        ],
+        "name": "Réunion"
+    },
+    {
+        "latlng": [
+            46,
+            25
+        ],
+        "name": "Romania"
+    },
+    {
+        "latlng": [
+            60,
+            100
+        ],
+        "name": "Russia"
+    },
+    {
+        "latlng": [
+            -2,
+            30
+        ],
+        "name": "Rwanda"
+    },
+    {
+        "latlng": [
+            25,
+            45
+        ],
+        "name": "Saudi Arabia"
+    },
+    {
+        "latlng": [
+            15,
+            30
+        ],
+        "name": "Sudan"
+    },
+    {
+        "latlng": [
+            14,
+            -14
+        ],
+        "name": "Senegal"
+    },
+    {
+        "latlng": [
+            1.36666666,
+            103.8
+        ],
+        "name": "Singapore"
+    },
+    {
+        "latlng": [
+            -54.5,
+            -37
+        ],
+        "name": "South Georgia"
+    },
+    {
+        "latlng": [
+            78,
+            20
+        ],
+        "name": "Svalbard and Jan Mayen"
+    },
+    {
+        "latlng": [
+            -8,
+            159
+        ],
+        "name": "Solomon Islands"
+    },
+    {
+        "latlng": [
+            8.5,
+            -11.5
+        ],
+        "name": "Sierra Leone"
+    },
+    {
+        "latlng": [
+            13.83333333,
+            -88.91666666
+        ],
+        "name": "El Salvador"
+    },
+    {
+        "latlng": [
+            43.76666666,
+            12.41666666
+        ],
+        "name": "San Marino"
+    },
+    {
+        "latlng": [
+            10,
+            49
+        ],
+        "name": "Somalia"
+    },
+    {
+        "latlng": [
+            46.83333333,
+            -56.33333333
+        ],
+        "name": "Saint Pierre and Miquelon"
+    },
+    {
+        "latlng": [
+            44,
+            21
+        ],
+        "name": "Serbia"
+    },
+    {
+        "latlng": [
+            7,
+            30
+        ],
+        "name": "South Sudan"
+    },
+    {
+        "latlng": [
+            1,
+            7
+        ],
+        "name": "São Tomé and Príncipe"
+    },
+    {
+        "latlng": [
+            4,
+            -56
+        ],
+        "name": "Suriname"
+    },
+    {
+        "latlng": [
+            48.66666666,
+            19.5
+        ],
+        "name": "Slovakia"
+    },
+    {
+        "latlng": [
+            46.11666666,
+            14.81666666
+        ],
+        "name": "Slovenia"
+    },
+    {
+        "latlng": [
+            62,
+            15
+        ],
+        "name": "Sweden"
+    },
+    {
+        "latlng": [
+            -26.5,
+            31.5
+        ],
+        "name": "Swaziland"
+    },
+    {
+        "latlng": [
+            18.033333,
+            -63.05
+        ],
+        "name": "Sint Maarten"
+    },
+    {
+        "latlng": [
+            -4.58333333,
+            55.66666666
+        ],
+        "name": "Seychelles"
+    },
+    {
+        "latlng": [
+            35,
+            38
+        ],
+        "name": "Syria"
+    },
+    {
+        "latlng": [
+            21.75,
+            -71.58333333
+        ],
+        "name": "Turks and Caicos Islands"
+    },
+    {
+        "latlng": [
+            15,
+            19
+        ],
+        "name": "Chad"
+    },
+    {
+        "latlng": [
+            8,
+            1.16666666
+        ],
+        "name": "Togo"
+    },
+    {
+        "latlng": [
+            15,
+            100
+        ],
+        "name": "Thailand"
+    },
+    {
+        "latlng": [
+            39,
+            71
+        ],
+        "name": "Tajikistan"
+    },
+    {
+        "latlng": [
+            -9,
+            -172
+        ],
+        "name": "Tokelau"
+    },
+    {
+        "latlng": [
+            40,
+            60
+        ],
+        "name": "Turkmenistan"
+    },
+    {
+        "latlng": [
+            -8.83333333,
+            125.91666666
+        ],
+        "name": "Timor-Leste"
+    },
+    {
+        "latlng": [
+            -20,
+            -175
+        ],
+        "name": "Tonga"
+    },
+    {
+        "latlng": [
+            11,
+            -61
+        ],
+        "name": "Trinidad and Tobago"
+    },
+    {
+        "latlng": [
+            34,
+            9
+        ],
+        "name": "Tunisia"
+    },
+    {
+        "latlng": [
+            39,
+            35
+        ],
+        "name": "Turkey"
+    },
+    {
+        "latlng": [
+            -8,
+            178
+        ],
+        "name": "Tuvalu"
+    },
+    {
+        "latlng": [
+            23.5,
+            121
+        ],
+        "name": "Taiwan"
+    },
+    {
+        "latlng": [
+            -6,
+            35
+        ],
+        "name": "Tanzania"
+    },
+    {
+        "latlng": [
+            1,
+            32
+        ],
+        "name": "Uganda"
+    },
+    {
+        "latlng": [
+            49,
+            32
+        ],
+        "name": "Ukraine"
+    },
+    {
+        "latlng": [
+            19.2911437,
+            166.618332
+        ],
+        "name": "United States Minor Outlying Islands"
+    },
+    {
+        "latlng": [
+            -33,
+            -56
+        ],
+        "name": "Uruguay"
+    },
+    {
+        "latlng": [
+            38,
+            -97
+        ],
+        "name": "United States"
+    },
+    {
+        "latlng": [
+            41,
+            64
+        ],
+        "name": "Uzbekistan"
+    },
+    {
+        "latlng": [
+            41.9,
+            12.45
+        ],
+        "name": "Vatican City"
+    },
+    {
+        "latlng": [
+            13.25,
+            -61.2
+        ],
+        "name": "Saint Vincent and the Grenadines"
+    },
+    {
+        "latlng": [
+            8,
+            -66
+        ],
+        "name": "Venezuela"
+    },
+    {
+        "latlng": [
+            18.431383,
+            -64.62305
+        ],
+        "name": "British Virgin Islands"
+    },
+    {
+        "latlng": [
+            18.35,
+            -64.933333
+        ],
+        "name": "United States Virgin Islands"
+    },
+    {
+        "latlng": [
+            16.16666666,
+            107.83333333
+        ],
+        "name": "Vietnam"
+    },
+    {
+        "latlng": [
+            -16,
+            167
+        ],
+        "name": "Vanuatu"
+    },
+    {
+        "latlng": [
+            -13.3,
+            -176.2
+        ],
+        "name": "Wallis and Futuna"
+    },
+    {
+        "latlng": [
+            -13.58333333,
+            -172.33333333
+        ],
+        "name": "Samoa"
+    },
+    {
+        "latlng": [
+            15,
+            48
+        ],
+        "name": "Yemen"
+    },
+    {
+        "latlng": [
+            -29,
+            24
+        ],
+        "name": "South Africa"
+    },
+    {
+        "latlng": [
+            -15,
+            30
+        ],
+        "name": "Zambia"
+    },
+    {
+        "latlng": [
+            -20,
+            30
+        ],
+        "name": "Zimbabwe"
+    }
+]
