@@ -1,6 +1,6 @@
 import { createContext } from 'react';
 
-const CountContext = createContext();
+const CountContext = createContext(0);
 
 export const reducer = (count, action) => {
   // console.log({count, action})

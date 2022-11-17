@@ -1,1731 +1,2225 @@
-[
-    {
+{
+    "Aruba": {
         "latlng": [
             12.5,
             -69.96666666
         ],
-        "name": "Aruba"
+        "name": "Aruba",
+        "country_code": "AW",
+        "capital": "Oranjestad"
     },
-    {
+    "Afghanistan": {
         "latlng": [
             33,
             65
         ],
-        "name": "Afghanistan"
+        "name": "Afghanistan",
+        "country_code": "AF",
+        "capital": "Kabul"
     },
-    {
+    "Angola": {
         "latlng": [
             -12.5,
             18.5
         ],
-        "name": "Angola"
+        "name": "Angola",
+        "country_code": "AO",
+        "capital": "Luanda"
     },
-    {
+    "Anguilla": {
         "latlng": [
             18.25,
             -63.16666666
         ],
-        "name": "Anguilla"
+        "name": "Anguilla",
+        "country_code": "AI",
+        "capital": "The Valley"
     },
-    {
+    "Åland Islands": {
         "latlng": [
             60.116667,
             19.9
         ],
-        "name": "Åland Islands"
+        "name": "Åland Islands",
+        "country_code": "AX",
+        "capital": "Mariehamn"
     },
-    {
+    "Albania": {
         "latlng": [
             41,
             20
         ],
-        "name": "Albania"
+        "name": "Albania",
+        "country_code": "AL",
+        "capital": "Tirana"
     },
-    {
+    "Andorra": {
         "latlng": [
             42.5,
             1.5
         ],
-        "name": "Andorra"
+        "name": "Andorra",
+        "country_code": "AD",
+        "capital": "Andorra la Vella"
     },
-    {
+    "United Arab Emirates": {
         "latlng": [
             24,
             54
         ],
-        "name": "United Arab Emirates"
+        "name": "United Arab Emirates",
+        "country_code": "AE",
+        "capital": "Abu Dhabi"
     },
-    {
+    "Argentina": {
         "latlng": [
             -34,
             -64
         ],
-        "name": "Argentina"
+        "name": "Argentina",
+        "country_code": "AR",
+        "capital": "Buenos Aires"
     },
-    {
+    "Armenia": {
         "latlng": [
             40,
             45
         ],
-        "name": "Armenia"
+        "name": "Armenia",
+        "country_code": "AM",
+        "capital": "Yerevan"
     },
-    {
+    "American Samoa": {
         "latlng": [
             -14.33333333,
             -170
         ],
-        "name": "American Samoa"
+        "name": "American Samoa",
+        "country_code": "AS",
+        "capital": "Pago Pago"
     },
-    {
+    "Antarctica": {
         "latlng": [
             -90,
             0
         ],
-        "name": "Antarctica"
+        "name": "Antarctica",
+        "country_code": "AQ",
+        "capital": null
     },
-    {
+    "French Southern and Antarctic Lands": {
         "latlng": [
             -49.25,
             69.167
         ],
-        "name": "French Southern and Antarctic Lands"
+        "name": "French Southern and Antarctic Lands",
+        "country_code": "TF",
+        "capital": "Port-aux-Français"
     },
-    {
+    "Antigua and Barbuda": {
         "latlng": [
             17.05,
             -61.8
         ],
-        "name": "Antigua and Barbuda"
+        "name": "Antigua and Barbuda",
+        "country_code": "AG",
+        "capital": "Saint John's"
     },
-    {
+    "Australia": {
         "latlng": [
             -27,
             133
         ],
-        "name": "Australia"
+        "name": "Australia",
+        "country_code": "AU",
+        "capital": "Canberra"
     },
-    {
+    "Austria": {
         "latlng": [
             47.33333333,
             13.33333333
         ],
-        "name": "Austria"
+        "name": "Austria",
+        "country_code": "AT",
+        "capital": "Vienna"
     },
-    {
+    "Azerbaijan": {
         "latlng": [
             40.5,
             47.5
         ],
-        "name": "Azerbaijan"
+        "name": "Azerbaijan",
+        "country_code": "AZ",
+        "capital": "Baku"
     },
-    {
+    "Burundi": {
         "latlng": [
             -3.5,
             30
         ],
-        "name": "Burundi"
+        "name": "Burundi",
+        "country_code": "BI",
+        "capital": "Bujumbura"
     },
-    {
+    "Belgium": {
         "latlng": [
             50.83333333,
             4
         ],
-        "name": "Belgium"
+        "name": "Belgium",
+        "country_code": "BE",
+        "capital": "Brussels"
     },
-    {
+    "Benin": {
         "latlng": [
             9.5,
             2.25
         ],
-        "name": "Benin"
+        "name": "Benin",
+        "country_code": "BJ",
+        "capital": "Porto-Novo"
     },
-    {
+    "Burkina Faso": {
         "latlng": [
             13,
             -2
         ],
-        "name": "Burkina Faso"
+        "name": "Burkina Faso",
+        "country_code": "BF",
+        "capital": "Ouagadougou"
     },
-    {
+    "Bangladesh": {
         "latlng": [
             24,
             90
         ],
-        "name": "Bangladesh"
+        "name": "Bangladesh",
+        "country_code": "BD",
+        "capital": "Dhaka"
     },
-    {
+    "Bulgaria": {
         "latlng": [
             43,
             25
         ],
-        "name": "Bulgaria"
+        "name": "Bulgaria",
+        "country_code": "BG",
+        "capital": "Sofia"
     },
-    {
+    "Bahrain": {
         "latlng": [
             26,
             50.55
         ],
-        "name": "Bahrain"
+        "name": "Bahrain",
+        "country_code": "BH",
+        "capital": "Manama"
     },
-    {
+    "Bahamas": {
         "latlng": [
             24.25,
             -76
         ],
-        "name": "Bahamas"
+        "name": "Bahamas",
+        "country_code": "BS",
+        "capital": "Nassau"
     },
-    {
+    "Bosnia and Herzegovina": {
         "latlng": [
             44,
             18
         ],
-        "name": "Bosnia and Herzegovina"
+        "name": "Bosnia and Herzegovina",
+        "country_code": "BA",
+        "capital": "Sarajevo"
     },
-    {
+    "Saint Barthélemy": {
         "latlng": [
             18.5,
             -63.41666666
         ],
-        "name": "Saint Barthélemy"
+        "name": "Saint Barthélemy",
+        "country_code": "BL",
+        "capital": "Gustavia"
     },
-    {
+    "Belarus": {
         "latlng": [
             53,
             28
         ],
-        "name": "Belarus"
+        "name": "Belarus",
+        "country_code": "BY",
+        "capital": "Minsk"
     },
-    {
+    "Belize": {
         "latlng": [
             17.25,
             -88.75
         ],
-        "name": "Belize"
+        "name": "Belize",
+        "country_code": "BZ",
+        "capital": "Belmopan"
     },
-    {
+    "Bermuda": {
         "latlng": [
             32.33333333,
             -64.75
         ],
-        "name": "Bermuda"
+        "name": "Bermuda",
+        "country_code": "BM",
+        "capital": "Hamilton"
     },
-    {
+    "Bolivia": {
         "latlng": [
             -17,
             -65
         ],
-        "name": "Bolivia"
+        "name": "Bolivia",
+        "country_code": "BO",
+        "capital": "Sucre"
     },
-    {
+    "Brazil": {
         "latlng": [
             -10,
             -55
         ],
-        "name": "Brazil"
+        "name": "Brazil",
+        "country_code": "BR",
+        "capital": "Brasília"
     },
-    {
+    "Barbados": {
         "latlng": [
             13.16666666,
             -59.53333333
         ],
-        "name": "Barbados"
+        "name": "Barbados",
+        "country_code": "BB",
+        "capital": "Bridgetown"
     },
-    {
+    "Brunei": {
         "latlng": [
             4.5,
             114.66666666
         ],
-        "name": "Brunei"
+        "name": "Brunei",
+        "country_code": "BN",
+        "capital": "Bandar Seri Begawan"
     },
-    {
+    "Bhutan": {
         "latlng": [
             27.5,
             90.5
         ],
-        "name": "Bhutan"
+        "name": "Bhutan",
+        "country_code": "BT",
+        "capital": "Thimphu"
     },
-    {
+    "Bouvet Island": {
         "latlng": [
             -54.43333333,
             3.4
         ],
-        "name": "Bouvet Island"
+        "name": "Bouvet Island",
+        "country_code": "BV",
+        "capital": null
     },
-    {
+    "Botswana": {
         "latlng": [
             -22,
             24
         ],
-        "name": "Botswana"
+        "name": "Botswana",
+        "country_code": "BW",
+        "capital": "Gaborone"
     },
-    {
+    "Central African Republic": {
         "latlng": [
             7,
             21
         ],
-        "name": "Central African Republic"
+        "name": "Central African Republic",
+        "country_code": "CF",
+        "capital": "Bangui"
     },
-    {
+    "Canada": {
         "latlng": [
             60,
             -95
         ],
-        "name": "Canada"
+        "name": "Canada",
+        "country_code": "CA",
+        "capital": "Ottawa"
     },
-    {
+    "Cocos (Keeling) Islands": {
         "latlng": [
             -12.5,
             96.83333333
         ],
-        "name": "Cocos (Keeling) Islands"
+        "name": "Cocos (Keeling) Islands",
+        "country_code": "CC",
+        "capital": "West Island"
     },
-    {
+    "Switzerland": {
         "latlng": [
             47,
             8
         ],
-        "name": "Switzerland"
+        "name": "Switzerland",
+        "country_code": "CH",
+        "capital": "Bern"
     },
-    {
+    "Chile": {
         "latlng": [
             -30,
             -71
         ],
-        "name": "Chile"
+        "name": "Chile",
+        "country_code": "CL",
+        "capital": "Santiago"
     },
-    {
+    "China": {
         "latlng": [
             35,
             105
         ],
-        "name": "China"
+        "name": "China",
+        "country_code": "CN",
+        "capital": "Beijing"
     },
-    {
+    "Ivory Coast": {
         "latlng": [
             8,
             -5
         ],
-        "name": "Ivory Coast"
+        "name": "Ivory Coast",
+        "country_code": "CI",
+        "capital": "Yamoussoukro"
     },
-    {
+    "Cameroon": {
         "latlng": [
             6,
             12
         ],
-        "name": "Cameroon"
+        "name": "Cameroon",
+        "country_code": "CM",
+        "capital": "Yaoundé"
     },
-    {
+    "DR Congo": {
         "latlng": [
             0,
             25
         ],
-        "name": "DR Congo"
+        "name": "DR Congo",
+        "country_code": "CD",
+        "capital": "Kinshasa"
     },
-    {
+    "Republic of the Congo": {
         "latlng": [
             -1,
             15
         ],
-        "name": "Republic of the Congo"
+        "name": "Republic of the Congo",
+        "country_code": "CG",
+        "capital": "Brazzaville"
     },
-    {
+    "Cook Islands": {
         "latlng": [
             -21.23333333,
             -159.76666666
         ],
-        "name": "Cook Islands"
+        "name": "Cook Islands",
+        "country_code": "CK",
+        "capital": "Avarua"
     },
-    {
+    "Colombia": {
         "latlng": [
             4,
             -72
         ],
-        "name": "Colombia"
+        "name": "Colombia",
+        "country_code": "CO",
+        "capital": "Bogotá"
     },
-    {
+    "Comoros": {
         "latlng": [
             -12.16666666,
             44.25
         ],
-        "name": "Comoros"
+        "name": "Comoros",
+        "country_code": "KM",
+        "capital": "Moroni"
     },
-    {
+    "Cape Verde": {
         "latlng": [
             16,
             -24
         ],
-        "name": "Cape Verde"
+        "name": "Cape Verde",
+        "country_code": "CV",
+        "capital": "Praia"
     },
-    {
+    "Costa Rica": {
         "latlng": [
             10,
             -84
         ],
-        "name": "Costa Rica"
+        "name": "Costa Rica",
+        "country_code": "CR",
+        "capital": "San José"
     },
-    {
+    "Cuba": {
         "latlng": [
             21.5,
             -80
         ],
-        "name": "Cuba"
+        "name": "Cuba",
+        "country_code": "CU",
+        "capital": "Havana"
     },
-    {
+    "Curaçao": {
         "latlng": [
             12.116667,
             -68.933333
         ],
-        "name": "Curaçao"
+        "name": "Curaçao",
+        "country_code": "CW",
+        "capital": "Willemstad"
     },
-    {
+    "Christmas Island": {
         "latlng": [
             -10.5,
             105.66666666
         ],
-        "name": "Christmas Island"
+        "name": "Christmas Island",
+        "country_code": "CX",
+        "capital": "Flying Fish Cove"
     },
-    {
+    "Cayman Islands": {
         "latlng": [
             19.5,
             -80.5
         ],
-        "name": "Cayman Islands"
+        "name": "Cayman Islands",
+        "country_code": "KY",
+        "capital": "George Town"
     },
-    {
+    "Cyprus": {
         "latlng": [
             35,
             33
         ],
-        "name": "Cyprus"
+        "name": "Cyprus",
+        "country_code": "CY",
+        "capital": "Nicosia"
     },
-    {
+    "Czech Republic": {
         "latlng": [
             49.75,
             15.5
         ],
-        "name": "Czech Republic"
+        "name": "Czech Republic",
+        "country_code": "CZ",
+        "capital": "Prague"
     },
-    {
+    "Germany": {
         "latlng": [
             51,
             9
         ],
-        "name": "Germany"
+        "name": "Germany",
+        "country_code": "DE",
+        "capital": "Berlin"
     },
-    {
+    "Djibouti": {
         "latlng": [
             11.5,
             43
         ],
-        "name": "Djibouti"
+        "name": "Djibouti",
+        "country_code": "DJ",
+        "capital": "Djibouti"
     },
-    {
+    "Dominica": {
         "latlng": [
             15.41666666,
             -61.33333333
         ],
-        "name": "Dominica"
+        "name": "Dominica",
+        "country_code": "DM",
+        "capital": "Roseau"
     },
-    {
+    "Denmark": {
         "latlng": [
             56,
             10
         ],
-        "name": "Denmark"
+        "name": "Denmark",
+        "country_code": "DK",
+        "capital": "Copenhagen"
     },
-    {
+    "Dominican Republic": {
         "latlng": [
             19,
             -70.66666666
         ],
-        "name": "Dominican Republic"
+        "name": "Dominican Republic",
+        "country_code": "DO",
+        "capital": "Santo Domingo"
     },
-    {
+    "Algeria": {
         "latlng": [
             28,
             3
         ],
-        "name": "Algeria"
+        "name": "Algeria",
+        "country_code": "DZ",
+        "capital": "Algiers"
     },
-    {
+    "Ecuador": {
         "latlng": [
             -2,
             -77.5
         ],
-        "name": "Ecuador"
+        "name": "Ecuador",
+        "country_code": "EC",
+        "capital": "Quito"
     },
-    {
+    "Egypt": {
         "latlng": [
             27,
             30
         ],
-        "name": "Egypt"
+        "name": "Egypt",
+        "country_code": "EG",
+        "capital": "Cairo"
     },
-    {
+    "Eritrea": {
         "latlng": [
             15,
             39
         ],
-        "name": "Eritrea"
+        "name": "Eritrea",
+        "country_code": "ER",
+        "capital": "Asmara"
     },
-    {
+    "Western Sahara": {
         "latlng": [
             24.5,
             -13
         ],
-        "name": "Western Sahara"
+        "name": "Western Sahara",
+        "country_code": "EH",
+        "capital": "El Aaiún"
     },
-    {
+    "Spain": {
         "latlng": [
             40,
             -4
         ],
-        "name": "Spain"
+        "name": "Spain",
+        "country_code": "ES",
+        "capital": "Madrid"
     },
-    {
+    "Estonia": {
         "latlng": [
             59,
             26
         ],
-        "name": "Estonia"
+        "name": "Estonia",
+        "country_code": "EE",
+        "capital": "Tallinn"
     },
-    {
+    "Ethiopia": {
         "latlng": [
             8,
             38
         ],
-        "name": "Ethiopia"
+        "name": "Ethiopia",
+        "country_code": "ET",
+        "capital": "Addis Ababa"
     },
-    {
+    "Finland": {
         "latlng": [
             64,
             26
         ],
-        "name": "Finland"
+        "name": "Finland",
+        "country_code": "FI",
+        "capital": "Helsinki"
     },
-    {
+    "Fiji": {
         "latlng": [
             -18,
             175
         ],
-        "name": "Fiji"
+        "name": "Fiji",
+        "country_code": "FJ",
+        "capital": "Suva"
     },
-    {
+    "Falkland Islands": {
         "latlng": [
             -51.75,
             -59
         ],
-        "name": "Falkland Islands"
+        "name": "Falkland Islands",
+        "country_code": "FK",
+        "capital": "Stanley"
     },
-    {
+    "France": {
         "latlng": [
             46,
             2
         ],
-        "name": "France"
+        "name": "France",
+        "country_code": "FR",
+        "capital": "Paris"
     },
-    {
+    "Faroe Islands": {
         "latlng": [
             62,
             -7
         ],
-        "name": "Faroe Islands"
+        "name": "Faroe Islands",
+        "country_code": "FO",
+        "capital": "Tórshavn"
     },
-    {
+    "Micronesia": {
         "latlng": [
             6.91666666,
             158.25
         ],
-        "name": "Micronesia"
+        "name": "Micronesia",
+        "country_code": "FM",
+        "capital": "Palikir"
     },
-    {
+    "Gabon": {
         "latlng": [
             -1,
             11.75
         ],
-        "name": "Gabon"
+        "name": "Gabon",
+        "country_code": "GA",
+        "capital": "Libreville"
     },
-    {
+    "United Kingdom": {
         "latlng": [
             54,
             -2
         ],
-        "name": "United Kingdom"
+        "name": "United Kingdom",
+        "country_code": "GB",
+        "capital": "London"
     },
-    {
+    "Georgia": {
         "latlng": [
             42,
             43.5
         ],
-        "name": "Georgia"
+        "name": "Georgia",
+        "country_code": "GE",
+        "capital": "Tbilisi"
     },
-    {
+    "Guernsey": {
         "latlng": [
             49.46666666,
             -2.58333333
         ],
-        "name": "Guernsey"
+        "name": "Guernsey",
+        "country_code": "GG",
+        "capital": "St. Peter Port"
     },
-    {
+    "Ghana": {
         "latlng": [
             8,
             -2
         ],
-        "name": "Ghana"
+        "name": "Ghana",
+        "country_code": "GH",
+        "capital": "Accra"
     },
-    {
+    "Gibraltar": {
         "latlng": [
             36.13333333,
             -5.35
         ],
-        "name": "Gibraltar"
+        "name": "Gibraltar",
+        "country_code": "GI",
+        "capital": "Gibraltar"
     },
-    {
+    "Guinea": {
         "latlng": [
             11,
             -10
         ],
-        "name": "Guinea"
+        "name": "Guinea",
+        "country_code": "GN",
+        "capital": "Conakry"
     },
-    {
+    "Guadeloupe": {
         "latlng": [
             16.25,
             -61.583333
         ],
-        "name": "Guadeloupe"
+        "name": "Guadeloupe",
+        "country_code": "GP",
+        "capital": "Basse-Terre"
     },
-    {
+    "Gambia": {
         "latlng": [
             13.46666666,
             -16.56666666
         ],
-        "name": "Gambia"
+        "name": "Gambia",
+        "country_code": "GM",
+        "capital": "Banjul"
     },
-    {
+    "Guinea-Bissau": {
         "latlng": [
             12,
             -15
         ],
-        "name": "Guinea-Bissau"
+        "name": "Guinea-Bissau",
+        "country_code": "GW",
+        "capital": "Bissau"
     },
-    {
+    "Equatorial Guinea": {
         "latlng": [
             2,
             10
         ],
-        "name": "Equatorial Guinea"
+        "name": "Equatorial Guinea",
+        "country_code": "GQ",
+        "capital": "Malabo"
     },
-    {
+    "Greece": {
         "latlng": [
             39,
             22
         ],
-        "name": "Greece"
+        "name": "Greece",
+        "country_code": "GR",
+        "capital": "Athens"
     },
-    {
+    "Grenada": {
         "latlng": [
             12.11666666,
             -61.66666666
         ],
-        "name": "Grenada"
+        "name": "Grenada",
+        "country_code": "GD",
+        "capital": "St. George's"
     },
-    {
+    "Greenland": {
         "latlng": [
             72,
             -40
         ],
-        "name": "Greenland"
+        "name": "Greenland",
+        "country_code": "GL",
+        "capital": "Nuuk"
     },
-    {
+    "Guatemala": {
         "latlng": [
             15.5,
             -90.25
         ],
-        "name": "Guatemala"
+        "name": "Guatemala",
+        "country_code": "GT",
+        "capital": "Guatemala City"
     },
-    {
+    "French Guiana": {
         "latlng": [
             4,
             -53
         ],
-        "name": "French Guiana"
+        "name": "French Guiana",
+        "country_code": "GF",
+        "capital": "Cayenne"
     },
-    {
+    "Guam": {
         "latlng": [
             13.46666666,
             144.78333333
         ],
-        "name": "Guam"
+        "name": "Guam",
+        "country_code": "GU",
+        "capital": "Hagåtña"
     },
-    {
+    "Guyana": {
         "latlng": [
             5,
             -59
         ],
-        "name": "Guyana"
+        "name": "Guyana",
+        "country_code": "GY",
+        "capital": "Georgetown"
     },
-    {
+    "Hong Kong": {
         "latlng": [
             22.267,
             114.188
         ],
-        "name": "Hong Kong"
+        "name": "Hong Kong",
+        "country_code": "HK",
+        "capital": "City of Victoria"
     },
-    {
+    "Honduras": {
         "latlng": [
             15,
             -86.5
         ],
-        "name": "Honduras"
+        "name": "Honduras",
+        "country_code": "HN",
+        "capital": "Tegucigalpa"
     },
-    {
+    "Croatia": {
         "latlng": [
             45.16666666,
             15.5
         ],
-        "name": "Croatia"
+        "name": "Croatia",
+        "country_code": "HR",
+        "capital": "Zagreb"
     },
-    {
+    "Haiti": {
         "latlng": [
             19,
             -72.41666666
         ],
-        "name": "Haiti"
+        "name": "Haiti",
+        "country_code": "HT",
+        "capital": "Port-au-Prince"
     },
-    {
+    "Hungary": {
         "latlng": [
             47,
             20
         ],
-        "name": "Hungary"
+        "name": "Hungary",
+        "country_code": "HU",
+        "capital": "Budapest"
     },
-    {
+    "Indonesia": {
         "latlng": [
             -5,
             120
         ],
-        "name": "Indonesia"
+        "name": "Indonesia",
+        "country_code": "ID",
+        "capital": "Jakarta"
     },
-    {
+    "Isle of Man": {
         "latlng": [
             54.25,
             -4.5
         ],
-        "name": "Isle of Man"
+        "name": "Isle of Man",
+        "country_code": "IM",
+        "capital": "Douglas"
     },
-    {
+    "India": {
         "latlng": [
             20,
             77
         ],
-        "name": "India"
+        "name": "India",
+        "country_code": "IN",
+        "capital": "New Delhi"
     },
-    {
+    "British Indian Ocean Territory": {
         "latlng": [
             -6,
             71.5
         ],
-        "name": "British Indian Ocean Territory"
+        "name": "British Indian Ocean Territory",
+        "country_code": "IO",
+        "capital": "Diego Garcia"
     },
-    {
+    "Ireland": {
         "latlng": [
             53,
             -8
         ],
-        "name": "Ireland"
+        "name": "Ireland",
+        "country_code": "IE",
+        "capital": "Dublin"
     },
-    {
+    "Iran": {
         "latlng": [
             32,
             53
         ],
-        "name": "Iran"
+        "name": "Iran",
+        "country_code": "IR",
+        "capital": "Tehran"
     },
-    {
+    "Iraq": {
         "latlng": [
             33,
             44
         ],
-        "name": "Iraq"
+        "name": "Iraq",
+        "country_code": "IQ",
+        "capital": "Baghdad"
     },
-    {
+    "Iceland": {
         "latlng": [
             65,
             -18
         ],
-        "name": "Iceland"
+        "name": "Iceland",
+        "country_code": "IS",
+        "capital": "Reykjavik"
     },
-    {
+    "Israel": {
         "latlng": [
             31.47,
             35.13
         ],
-        "name": "Israel"
+        "name": "Israel",
+        "country_code": "IL",
+        "capital": "Jerusalem"
     },
-    {
+    "Italy": {
         "latlng": [
             42.83333333,
             12.83333333
         ],
-        "name": "Italy"
+        "name": "Italy",
+        "country_code": "IT",
+        "capital": "Rome"
     },
-    {
+    "Jamaica": {
         "latlng": [
             18.25,
             -77.5
         ],
-        "name": "Jamaica"
+        "name": "Jamaica",
+        "country_code": "JM",
+        "capital": "Kingston"
     },
-    {
+    "Jersey": {
         "latlng": [
             49.25,
             -2.16666666
         ],
-        "name": "Jersey"
+        "name": "Jersey",
+        "country_code": "JE",
+        "capital": "Saint Helier"
     },
-    {
+    "Jordan": {
         "latlng": [
             31,
             36
         ],
-        "name": "Jordan"
+        "name": "Jordan",
+        "country_code": "JO",
+        "capital": "Amman"
     },
-    {
+    "Japan": {
         "latlng": [
             36,
             138
         ],
-        "name": "Japan"
+        "name": "Japan",
+        "country_code": "JP",
+        "capital": "Tokyo"
     },
-    {
+    "Kazakhstan": {
         "latlng": [
             48,
             68
         ],
-        "name": "Kazakhstan"
+        "name": "Kazakhstan",
+        "country_code": "KZ",
+        "capital": "Astana"
     },
-    {
+    "Kenya": {
         "latlng": [
             1,
             38
         ],
-        "name": "Kenya"
+        "name": "Kenya",
+        "country_code": "KE",
+        "capital": "Nairobi"
     },
-    {
+    "Kyrgyzstan": {
         "latlng": [
             41,
             75
         ],
-        "name": "Kyrgyzstan"
+        "name": "Kyrgyzstan",
+        "country_code": "KG",
+        "capital": "Bishkek"
     },
-    {
+    "Cambodia": {
         "latlng": [
             13,
             105
         ],
-        "name": "Cambodia"
+        "name": "Cambodia",
+        "country_code": "KH",
+        "capital": "Phnom Penh"
     },
-    {
+    "Kiribati": {
         "latlng": [
             1.41666666,
             173
         ],
-        "name": "Kiribati"
+        "name": "Kiribati",
+        "country_code": "KI",
+        "capital": "South Tarawa"
     },
-    {
+    "Saint Kitts and Nevis": {
         "latlng": [
             17.33333333,
             -62.75
         ],
-        "name": "Saint Kitts and Nevis"
+        "name": "Saint Kitts and Nevis",
+        "country_code": "KN",
+        "capital": "Basseterre"
     },
-    {
+    "South Korea": {
         "latlng": [
             37,
             127.5
         ],
-        "name": "South Korea"
+        "name": "South Korea",
+        "country_code": "KR",
+        "capital": "Seoul"
     },
-    {
+    "Kosovo": {
         "latlng": [
             42.666667,
             21.166667
         ],
-        "name": "Kosovo"
+        "name": "Kosovo",
+        "country_code": "XK",
+        "capital": "Pristina"
     },
-    {
+    "Kuwait": {
         "latlng": [
             29.5,
             45.75
         ],
-        "name": "Kuwait"
+        "name": "Kuwait",
+        "country_code": "KW",
+        "capital": "Kuwait City"
     },
-    {
+    "Laos": {
         "latlng": [
             18,
             105
         ],
-        "name": "Laos"
+        "name": "Laos",
+        "country_code": "LA",
+        "capital": "Vientiane"
     },
-    {
+    "Lebanon": {
         "latlng": [
             33.83333333,
             35.83333333
         ],
-        "name": "Lebanon"
+        "name": "Lebanon",
+        "country_code": "LB",
+        "capital": "Beirut"
     },
-    {
+    "Liberia": {
         "latlng": [
             6.5,
             -9.5
         ],
-        "name": "Liberia"
+        "name": "Liberia",
+        "country_code": "LR",
+        "capital": "Monrovia"
     },
-    {
+    "Libya": {
         "latlng": [
             25,
             17
         ],
-        "name": "Libya"
+        "name": "Libya",
+        "country_code": "LY",
+        "capital": "Tripoli"
     },
-    {
+    "Saint Lucia": {
         "latlng": [
             13.88333333,
             -60.96666666
         ],
-        "name": "Saint Lucia"
+        "name": "Saint Lucia",
+        "country_code": "LC",
+        "capital": "Castries"
     },
-    {
+    "Liechtenstein": {
         "latlng": [
             47.26666666,
             9.53333333
         ],
-        "name": "Liechtenstein"
+        "name": "Liechtenstein",
+        "country_code": "LI",
+        "capital": "Vaduz"
     },
-    {
+    "Sri Lanka": {
         "latlng": [
             7,
             81
         ],
-        "name": "Sri Lanka"
+        "name": "Sri Lanka",
+        "country_code": "LK",
+        "capital": "Colombo"
     },
-    {
+    "Lesotho": {
         "latlng": [
             -29.5,
             28.5
         ],
-        "name": "Lesotho"
+        "name": "Lesotho",
+        "country_code": "LS",
+        "capital": "Maseru"
     },
-    {
+    "Lithuania": {
         "latlng": [
             56,
             24
         ],
-        "name": "Lithuania"
+        "name": "Lithuania",
+        "country_code": "LT",
+        "capital": "Vilnius"
     },
-    {
+    "Luxembourg": {
         "latlng": [
             49.75,
             6.16666666
         ],
-        "name": "Luxembourg"
+        "name": "Luxembourg",
+        "country_code": "LU",
+        "capital": "Luxembourg"
     },
-    {
+    "Latvia": {
         "latlng": [
             57,
             25
         ],
-        "name": "Latvia"
+        "name": "Latvia",
+        "country_code": "LV",
+        "capital": "Riga"
     },
-    {
+    "Macau": {
         "latlng": [
             22.16666666,
             113.55
         ],
-        "name": "Macau"
+        "name": "Macau",
+        "country_code": "MO",
+        "capital": null
     },
-    {
+    "Saint Martin": {
         "latlng": [
             18.08333333,
             -63.95
         ],
-        "name": "Saint Martin"
+        "name": "Saint Martin",
+        "country_code": "MF",
+        "capital": "Marigot"
     },
-    {
+    "Morocco": {
         "latlng": [
             32,
             -5
         ],
-        "name": "Morocco"
+        "name": "Morocco",
+        "country_code": "MA",
+        "capital": "Rabat"
     },
-    {
+    "Monaco": {
         "latlng": [
             43.73333333,
             7.4
         ],
-        "name": "Monaco"
+        "name": "Monaco",
+        "country_code": "MC",
+        "capital": "Monaco"
     },
-    {
+    "Moldova": {
         "latlng": [
             47,
             29
         ],
-        "name": "Moldova"
+        "name": "Moldova",
+        "country_code": "MD",
+        "capital": "Chișinău"
     },
-    {
+    "Madagascar": {
         "latlng": [
             -20,
             47
         ],
-        "name": "Madagascar"
+        "name": "Madagascar",
+        "country_code": "MG",
+        "capital": "Antananarivo"
     },
-    {
+    "Maldives": {
         "latlng": [
             3.25,
             73
         ],
-        "name": "Maldives"
+        "name": "Maldives",
+        "country_code": "MV",
+        "capital": "Malé"
     },
-    {
+    "Mexico": {
         "latlng": [
             23,
             -102
         ],
-        "name": "Mexico"
+        "name": "Mexico",
+        "country_code": "MX",
+        "capital": "Mexico City"
     },
-    {
+    "Marshall Islands": {
         "latlng": [
             9,
             168
         ],
-        "name": "Marshall Islands"
+        "name": "Marshall Islands",
+        "country_code": "MH",
+        "capital": "Majuro"
     },
-    {
+    "Macedonia": {
         "latlng": [
             41.83333333,
             22
         ],
-        "name": "Macedonia"
+        "name": "Macedonia",
+        "country_code": "MK",
+        "capital": "Skopje"
     },
-    {
+    "Mali": {
         "latlng": [
             17,
             -4
         ],
-        "name": "Mali"
+        "name": "Mali",
+        "country_code": "ML",
+        "capital": "Bamako"
     },
-    {
+    "Malta": {
         "latlng": [
             35.83333333,
             14.58333333
         ],
-        "name": "Malta"
+        "name": "Malta",
+        "country_code": "MT",
+        "capital": "Valletta"
     },
-    {
+    "Myanmar": {
         "latlng": [
             22,
             98
         ],
-        "name": "Myanmar"
+        "name": "Myanmar",
+        "country_code": "MM",
+        "capital": "Naypyidaw"
     },
-    {
+    "Montenegro": {
         "latlng": [
             42.5,
             19.3
         ],
-        "name": "Montenegro"
+        "name": "Montenegro",
+        "country_code": "ME",
+        "capital": "Podgorica"
     },
-    {
+    "Mongolia": {
         "latlng": [
             46,
             105
         ],
-        "name": "Mongolia"
+        "name": "Mongolia",
+        "country_code": "MN",
+        "capital": "Ulan Bator"
     },
-    {
+    "Northern Mariana Islands": {
         "latlng": [
             15.2,
             145.75
         ],
-        "name": "Northern Mariana Islands"
+        "name": "Northern Mariana Islands",
+        "country_code": "MP",
+        "capital": "Saipan"
     },
-    {
+    "Mozambique": {
         "latlng": [
             -18.25,
             35
         ],
-        "name": "Mozambique"
+        "name": "Mozambique",
+        "country_code": "MZ",
+        "capital": "Maputo"
     },
-    {
+    "Mauritania": {
         "latlng": [
             20,
             -12
         ],
-        "name": "Mauritania"
+        "name": "Mauritania",
+        "country_code": "MR",
+        "capital": "Nouakchott"
     },
-    {
+    "Montserrat": {
         "latlng": [
             16.75,
             -62.2
         ],
-        "name": "Montserrat"
+        "name": "Montserrat",
+        "country_code": "MS",
+        "capital": "Plymouth"
     },
-    {
+    "Martinique": {
         "latlng": [
             14.666667,
             -61
         ],
-        "name": "Martinique"
+        "name": "Martinique",
+        "country_code": "MQ",
+        "capital": "Fort-de-France"
     },
-    {
+    "Mauritius": {
         "latlng": [
             -20.28333333,
             57.55
         ],
-        "name": "Mauritius"
+        "name": "Mauritius",
+        "country_code": "MU",
+        "capital": "Port Louis"
     },
-    {
+    "Malawi": {
         "latlng": [
             -13.5,
             34
         ],
-        "name": "Malawi"
+        "name": "Malawi",
+        "country_code": "MW",
+        "capital": "Lilongwe"
     },
-    {
+    "Malaysia": {
         "latlng": [
             2.5,
             112.5
         ],
-        "name": "Malaysia"
+        "name": "Malaysia",
+        "country_code": "MY",
+        "capital": "Kuala Lumpur"
     },
-    {
+    "Mayotte": {
         "latlng": [
             -12.83333333,
             45.16666666
         ],
-        "name": "Mayotte"
+        "name": "Mayotte",
+        "country_code": "YT",
+        "capital": "Mamoudzou"
     },
-    {
+    "Namibia": {
         "latlng": [
             -22,
             17
         ],
-        "name": "Namibia"
+        "name": "Namibia",
+        "country_code": "NA",
+        "capital": "Windhoek"
     },
-    {
+    "New Caledonia": {
         "latlng": [
             -21.5,
             165.5
         ],
-        "name": "New Caledonia"
+        "name": "New Caledonia",
+        "country_code": "NC",
+        "capital": "Nouméa"
     },
-    {
+    "Niger": {
         "latlng": [
             16,
             8
         ],
-        "name": "Niger"
+        "name": "Niger",
+        "country_code": "NE",
+        "capital": "Niamey"
     },
-    {
+    "Norfolk Island": {
         "latlng": [
             -29.03333333,
             167.95
         ],
-        "name": "Norfolk Island"
+        "name": "Norfolk Island",
+        "country_code": "NF",
+        "capital": "Kingston"
     },
-    {
+    "Nigeria": {
         "latlng": [
             10,
             8
         ],
-        "name": "Nigeria"
+        "name": "Nigeria",
+        "country_code": "NG",
+        "capital": "Abuja"
     },
-    {
+    "Nicaragua": {
         "latlng": [
             13,
             -85
         ],
-        "name": "Nicaragua"
+        "name": "Nicaragua",
+        "country_code": "NI",
+        "capital": "Managua"
     },
-    {
+    "Niue": {
         "latlng": [
             -19.03333333,
             -169.86666666
         ],
-        "name": "Niue"
+        "name": "Niue",
+        "country_code": "NU",
+        "capital": "Alofi"
     },
-    {
+    "Netherlands": {
         "latlng": [
             52.5,
             5.75
         ],
-        "name": "Netherlands"
+        "name": "Netherlands",
+        "country_code": "NL",
+        "capital": "Amsterdam"
     },
-    {
+    "Norway": {
         "latlng": [
             62,
             10
         ],
-        "name": "Norway"
+        "name": "Norway",
+        "country_code": "NO",
+        "capital": "Oslo"
     },
-    {
+    "Nepal": {
         "latlng": [
             28,
             84
         ],
-        "name": "Nepal"
+        "name": "Nepal",
+        "country_code": "NP",
+        "capital": "Kathmandu"
     },
-    {
+    "Nauru": {
         "latlng": [
             -0.53333333,
             166.91666666
         ],
-        "name": "Nauru"
+        "name": "Nauru",
+        "country_code": "NR",
+        "capital": "Yaren"
     },
-    {
+    "New Zealand": {
         "latlng": [
             -41,
             174
         ],
-        "name": "New Zealand"
+        "name": "New Zealand",
+        "country_code": "NZ",
+        "capital": "Wellington"
     },
-    {
+    "Oman": {
         "latlng": [
             21,
             57
         ],
-        "name": "Oman"
+        "name": "Oman",
+        "country_code": "OM",
+        "capital": "Muscat"
     },
-    {
+    "Pakistan": {
         "latlng": [
             30,
             70
         ],
-        "name": "Pakistan"
+        "name": "Pakistan",
+        "country_code": "PK",
+        "capital": "Islamabad"
     },
-    {
+    "Panama": {
         "latlng": [
             9,
             -80
         ],
-        "name": "Panama"
+        "name": "Panama",
+        "country_code": "PA",
+        "capital": "Panama City"
     },
-    {
+    "Pitcairn Islands": {
         "latlng": [
             -25.06666666,
             -130.1
         ],
-        "name": "Pitcairn Islands"
+        "name": "Pitcairn Islands",
+        "country_code": "PN",
+        "capital": "Adamstown"
     },
-    {
+    "Peru": {
         "latlng": [
             -10,
             -76
         ],
-        "name": "Peru"
+        "name": "Peru",
+        "country_code": "PE",
+        "capital": "Lima"
     },
-    {
+    "Philippines": {
         "latlng": [
             13,
             122
         ],
-        "name": "Philippines"
+        "name": "Philippines",
+        "country_code": "PH",
+        "capital": "Manila"
     },
-    {
+    "Palau": {
         "latlng": [
             7.5,
             134.5
         ],
-        "name": "Palau"
+        "name": "Palau",
+        "country_code": "PW",
+        "capital": "Ngerulmud"
     },
-    {
+    "Papua New Guinea": {
         "latlng": [
             -6,
             147
         ],
-        "name": "Papua New Guinea"
+        "name": "Papua New Guinea",
+        "country_code": "PG",
+        "capital": "Port Moresby"
     },
-    {
+    "Poland": {
         "latlng": [
             52,
             20
         ],
-        "name": "Poland"
+        "name": "Poland",
+        "country_code": "PL",
+        "capital": "Warsaw"
     },
-    {
+    "Puerto Rico": {
         "latlng": [
             18.25,
             -66.5
         ],
-        "name": "Puerto Rico"
+        "name": "Puerto Rico",
+        "country_code": "PR",
+        "capital": "San Juan"
     },
-    {
+    "North Korea": {
         "latlng": [
             40,
             127
         ],
-        "name": "North Korea"
+        "name": "North Korea",
+        "country_code": "KP",
+        "capital": "Pyongyang"
     },
-    {
+    "Portugal": {
         "latlng": [
             39.5,
             -8
         ],
-        "name": "Portugal"
+        "name": "Portugal",
+        "country_code": "PT",
+        "capital": "Lisbon"
     },
-    {
+    "Paraguay": {
         "latlng": [
             -23,
             -58
         ],
-        "name": "Paraguay"
+        "name": "Paraguay",
+        "country_code": "PY",
+        "capital": "Asunción"
     },
-    {
+    "Palestine": {
         "latlng": [
             31.9,
             35.2
         ],
-        "name": "Palestine"
+        "name": "Palestine",
+        "country_code": "PS",
+        "capital": "Ramallah"
     },
-    {
+    "French Polynesia": {
         "latlng": [
             -15,
             -140
         ],
-        "name": "French Polynesia"
+        "name": "French Polynesia",
+        "country_code": "PF",
+        "capital": "Papeetē"
     },
-    {
+    "Qatar": {
         "latlng": [
             25.5,
             51.25
         ],
-        "name": "Qatar"
+        "name": "Qatar",
+        "country_code": "QA",
+        "capital": "Doha"
     },
-    {
+    "Réunion": {
         "latlng": [
             -21.15,
             55.5
         ],
-        "name": "Réunion"
+        "name": "Réunion",
+        "country_code": "RE",
+        "capital": "Saint-Denis"
     },
-    {
+    "Romania": {
         "latlng": [
             46,
             25
         ],
-        "name": "Romania"
+        "name": "Romania",
+        "country_code": "RO",
+        "capital": "Bucharest"
     },
-    {
+    "Russia": {
         "latlng": [
             60,
             100
         ],
-        "name": "Russia"
+        "name": "Russia",
+        "country_code": "RU",
+        "capital": "Moscow"
     },
-    {
+    "Rwanda": {
         "latlng": [
             -2,
             30
         ],
-        "name": "Rwanda"
+        "name": "Rwanda",
+        "country_code": "RW",
+        "capital": "Kigali"
     },
-    {
+    "Saudi Arabia": {
         "latlng": [
             25,
             45
         ],
-        "name": "Saudi Arabia"
+        "name": "Saudi Arabia",
+        "country_code": "SA",
+        "capital": "Riyadh"
     },
-    {
+    "Sudan": {
         "latlng": [
             15,
             30
         ],
-        "name": "Sudan"
+        "name": "Sudan",
+        "country_code": "SD",
+        "capital": "Khartoum"
     },
-    {
+    "Senegal": {
         "latlng": [
             14,
             -14
         ],
-        "name": "Senegal"
+        "name": "Senegal",
+        "country_code": "SN",
+        "capital": "Dakar"
     },
-    {
+    "Singapore": {
         "latlng": [
             1.36666666,
             103.8
         ],
-        "name": "Singapore"
+        "name": "Singapore",
+        "country_code": "SG",
+        "capital": "Singapore"
     },
-    {
+    "South Georgia": {
         "latlng": [
             -54.5,
             -37
         ],
-        "name": "South Georgia"
+        "name": "South Georgia",
+        "country_code": "GS",
+        "capital": "King Edward Point"
     },
-    {
+    "Svalbard and Jan Mayen": {
         "latlng": [
             78,
             20
         ],
-        "name": "Svalbard and Jan Mayen"
+        "name": "Svalbard and Jan Mayen",
+        "country_code": "SJ",
+        "capital": "Longyearbyen"
     },
-    {
+    "Solomon Islands": {
         "latlng": [
             -8,
             159
         ],
-        "name": "Solomon Islands"
+        "name": "Solomon Islands",
+        "country_code": "SB",
+        "capital": "Honiara"
     },
-    {
+    "Sierra Leone": {
         "latlng": [
             8.5,
             -11.5
         ],
-        "name": "Sierra Leone"
+        "name": "Sierra Leone",
+        "country_code": "SL",
+        "capital": "Freetown"
     },
-    {
+    "El Salvador": {
         "latlng": [
             13.83333333,
             -88.91666666
         ],
-        "name": "El Salvador"
+        "name": "El Salvador",
+        "country_code": "SV",
+        "capital": "San Salvador"
     },
-    {
+    "San Marino": {
         "latlng": [
             43.76666666,
             12.41666666
         ],
-        "name": "San Marino"
+        "name": "San Marino",
+        "country_code": "SM",
+        "capital": "City of San Marino"
     },
-    {
+    "Somalia": {
         "latlng": [
             10,
             49
         ],
-        "name": "Somalia"
+        "name": "Somalia",
+        "country_code": "SO",
+        "capital": "Mogadishu"
     },
-    {
+    "Saint Pierre and Miquelon": {
         "latlng": [
             46.83333333,
             -56.33333333
         ],
-        "name": "Saint Pierre and Miquelon"
+        "name": "Saint Pierre and Miquelon",
+        "country_code": "PM",
+        "capital": "Saint-Pierre"
     },
-    {
+    "Serbia": {
         "latlng": [
             44,
             21
         ],
-        "name": "Serbia"
+        "name": "Serbia",
+        "country_code": "RS",
+        "capital": "Belgrade"
     },
-    {
+    "South Sudan": {
         "latlng": [
             7,
             30
         ],
-        "name": "South Sudan"
+        "name": "South Sudan",
+        "country_code": "SS",
+        "capital": "Juba"
     },
-    {
+    "São Tomé and Príncipe": {
         "latlng": [
             1,
             7
         ],
-        "name": "São Tomé and Príncipe"
+        "name": "São Tomé and Príncipe",
+        "country_code": "ST",
+        "capital": "São Tomé"
     },
-    {
+    "Suriname": {
         "latlng": [
             4,
             -56
         ],
-        "name": "Suriname"
+        "name": "Suriname",
+        "country_code": "SR",
+        "capital": "Paramaribo"
     },
-    {
+    "Slovakia": {
         "latlng": [
             48.66666666,
             19.5
         ],
-        "name": "Slovakia"
+        "name": "Slovakia",
+        "country_code": "SK",
+        "capital": "Bratislava"
     },
-    {
+    "Slovenia": {
         "latlng": [
             46.11666666,
             14.81666666
         ],
-        "name": "Slovenia"
+        "name": "Slovenia",
+        "country_code": "SI",
+        "capital": "Ljubljana"
     },
-    {
+    "Sweden": {
         "latlng": [
             62,
             15
         ],
-        "name": "Sweden"
+        "name": "Sweden",
+        "country_code": "SE",
+        "capital": "Stockholm"
     },
-    {
+    "Swaziland": {
         "latlng": [
             -26.5,
             31.5
         ],
-        "name": "Swaziland"
+        "name": "Swaziland",
+        "country_code": "SZ",
+        "capital": "Lobamba"
     },
-    {
+    "Sint Maarten": {
         "latlng": [
             18.033333,
             -63.05
         ],
-        "name": "Sint Maarten"
+        "name": "Sint Maarten",
+        "country_code": "SX",
+        "capital": "Philipsburg"
     },
-    {
+    "Seychelles": {
         "latlng": [
             -4.58333333,
             55.66666666
         ],
-        "name": "Seychelles"
+        "name": "Seychelles",
+        "country_code": "SC",
+        "capital": "Victoria"
     },
-    {
+    "Syria": {
         "latlng": [
             35,
             38
         ],
-        "name": "Syria"
+        "name": "Syria",
+        "country_code": "SY",
+        "capital": "Damascus"
     },
-    {
+    "Turks and Caicos Islands": {
         "latlng": [
             21.75,
             -71.58333333
         ],
-        "name": "Turks and Caicos Islands"
+        "name": "Turks and Caicos Islands",
+        "country_code": "TC",
+        "capital": "Cockburn Town"
     },
-    {
+    "Chad": {
         "latlng": [
             15,
             19
         ],
-        "name": "Chad"
+        "name": "Chad",
+        "country_code": "TD",
+        "capital": "N'Djamena"
     },
-    {
+    "Togo": {
         "latlng": [
             8,
             1.16666666
         ],
-        "name": "Togo"
+        "name": "Togo",
+        "country_code": "TG",
+        "capital": "Lomé"
     },
-    {
+    "Thailand": {
         "latlng": [
             15,
             100
         ],
-        "name": "Thailand"
+        "name": "Thailand",
+        "country_code": "TH",
+        "capital": "Bangkok"
     },
-    {
+    "Tajikistan": {
         "latlng": [
             39,
             71
         ],
-        "name": "Tajikistan"
+        "name": "Tajikistan",
+        "country_code": "TJ",
+        "capital": "Dushanbe"
     },
-    {
+    "Tokelau": {
         "latlng": [
             -9,
             -172
         ],
-        "name": "Tokelau"
+        "name": "Tokelau",
+        "country_code": "TK",
+        "capital": "Fakaofo"
     },
-    {
+    "Turkmenistan": {
         "latlng": [
             40,
             60
         ],
-        "name": "Turkmenistan"
+        "name": "Turkmenistan",
+        "country_code": "TM",
+        "capital": "Ashgabat"
     },
-    {
+    "Timor-Leste": {
         "latlng": [
             -8.83333333,
             125.91666666
         ],
-        "name": "Timor-Leste"
+        "name": "Timor-Leste",
+        "country_code": "TL",
+        "capital": "Dili"
     },
-    {
+    "Tonga": {
         "latlng": [
             -20,
             -175
         ],
-        "name": "Tonga"
+        "name": "Tonga",
+        "country_code": "TO",
+        "capital": "Nuku'alofa"
     },
-    {
+    "Trinidad and Tobago": {
         "latlng": [
             11,
             -61
         ],
-        "name": "Trinidad and Tobago"
+        "name": "Trinidad and Tobago",
+        "country_code": "TT",
+        "capital": "Port of Spain"
     },
-    {
+    "Tunisia": {
         "latlng": [
             34,
             9
         ],
-        "name": "Tunisia"
+        "name": "Tunisia",
+        "country_code": "TN",
+        "capital": "Tunis"
     },
-    {
+    "Turkey": {
         "latlng": [
             39,
             35
         ],
-        "name": "Turkey"
+        "name": "Turkey",
+        "country_code": "TR",
+        "capital": "Ankara"
     },
-    {
+    "Tuvalu": {
         "latlng": [
             -8,
             178
         ],
-        "name": "Tuvalu"
+        "name": "Tuvalu",
+        "country_code": "TV",
+        "capital": "Funafuti"
     },
-    {
+    "Taiwan": {
         "latlng": [
             23.5,
             121
         ],
-        "name": "Taiwan"
+        "name": "Taiwan",
+        "country_code": "TW",
+        "capital": "Taipei"
     },
-    {
+    "Tanzania": {
         "latlng": [
             -6,
             35
         ],
-        "name": "Tanzania"
+        "name": "Tanzania",
+        "country_code": "TZ",
+        "capital": "Dodoma"
     },
-    {
+    "Uganda": {
         "latlng": [
             1,
             32
         ],
-        "name": "Uganda"
+        "name": "Uganda",
+        "country_code": "UG",
+        "capital": "Kampala"
     },
-    {
+    "Ukraine": {
         "latlng": [
             49,
             32
         ],
-        "name": "Ukraine"
+        "name": "Ukraine",
+        "country_code": "UA",
+        "capital": "Kiev"
     },
-    {
+    "United States Minor Outlying Islands": {
         "latlng": [
             19.2911437,
             166.618332
         ],
-        "name": "United States Minor Outlying Islands"
+        "name": "United States Minor Outlying Islands",
+        "country_code": "UM",
+        "capital": null
     },
-    {
+    "Uruguay": {
         "latlng": [
             -33,
             -56
         ],
-        "name": "Uruguay"
+        "name": "Uruguay",
+        "country_code": "UY",
+        "capital": "Montevideo"
     },
-    {
+    "United States": {
         "latlng": [
             38,
             -97
         ],
-        "name": "United States"
+        "name": "United States",
+        "country_code": "US",
+        "capital": "Washington D.C."
     },
-    {
+    "Uzbekistan": {
         "latlng": [
             41,
             64
         ],
-        "name": "Uzbekistan"
+        "name": "Uzbekistan",
+        "country_code": "UZ",
+        "capital": "Tashkent"
     },
-    {
+    "Vatican City": {
         "latlng": [
             41.9,
             12.45
         ],
-        "name": "Vatican City"
+        "name": "Vatican City",
+        "country_code": "VA",
+        "capital": "Vatican City"
     },
-    {
+    "Saint Vincent and the Grenadines": {
         "latlng": [
             13.25,
             -61.2
         ],
-        "name": "Saint Vincent and the Grenadines"
+        "name": "Saint Vincent and the Grenadines",
+        "country_code": "VC",
+        "capital": "Kingstown"
     },
-    {
+    "Venezuela": {
         "latlng": [
             8,
             -66
         ],
-        "name": "Venezuela"
+        "name": "Venezuela",
+        "country_code": "VE",
+        "capital": "Caracas"
     },
-    {
+    "British Virgin Islands": {
         "latlng": [
             18.431383,
             -64.62305
         ],
-        "name": "British Virgin Islands"
+        "name": "British Virgin Islands",
+        "country_code": "VG",
+        "capital": "Road Town"
     },
-    {
+    "United States Virgin Islands": {
         "latlng": [
             18.35,
             -64.933333
         ],
-        "name": "United States Virgin Islands"
+        "name": "United States Virgin Islands",
+        "country_code": "VI",
+        "capital": "Charlotte Amalie"
     },
-    {
+    "Vietnam": {
         "latlng": [
             16.16666666,
             107.83333333
         ],
-        "name": "Vietnam"
+        "name": "Vietnam",
+        "country_code": "VN",
+        "capital": "Hanoi"
     },
-    {
+    "Vanuatu": {
         "latlng": [
             -16,
             167
         ],
-        "name": "Vanuatu"
+        "name": "Vanuatu",
+        "country_code": "VU",
+        "capital": "Port Vila"
     },
-    {
+    "Wallis and Futuna": {
         "latlng": [
             -13.3,
             -176.2
         ],
-        "name": "Wallis and Futuna"
+        "name": "Wallis and Futuna",
+        "country_code": "WF",
+        "capital": "Mata-Utu"
     },
-    {
+    "Samoa": {
         "latlng": [
             -13.58333333,
             -172.33333333
         ],
-        "name": "Samoa"
+        "name": "Samoa",
+        "country_code": "WS",
+        "capital": "Apia"
     },
-    {
+    "Yemen": {
         "latlng": [
             15,
             48
         ],
-        "name": "Yemen"
+        "name": "Yemen",
+        "country_code": "YE",
+        "capital": "Sana'a"
     },
-    {
+    "South Africa": {
         "latlng": [
             -29,
             24
         ],
-        "name": "South Africa"
+        "name": "South Africa",
+        "country_code": "ZA",
+        "capital": "Pretoria"
     },
-    {
+    "Zambia": {
         "latlng": [
             -15,
             30
         ],
-        "name": "Zambia"
+        "name": "Zambia",
+        "country_code": "ZM",
+        "capital": "Lusaka"
     },
-    {
+    "Zimbabwe": {
         "latlng": [
             -20,
             30
         ],
-        "name": "Zimbabwe"
+        "name": "Zimbabwe",
+        "country_code": "ZW",
+        "capital": "Harare"
     }
-]
+}

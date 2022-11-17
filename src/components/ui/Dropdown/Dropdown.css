@@ -1,0 +1,38 @@
+input {
+  color: black;
+  background-color: white;
+  padding: 5px 12px;
+  font-size: 20px;
+  position: relative;
+  width: 500px;
+  border: none;
+}
+
+input:focus {
+  outline: none;
+  border: 2px solid black;
+  padding: 3px 10px;
+}
+
+.list {
+  position: absolute;
+  z-index: 2000;
+  font-size: 20px;
+  max-height: 200px;
+  overflow-y: scroll;
+  color: white;
+  background-color: #000000dd;
+}
+
+.item {
+  width: 500px;
+  padding: 5px 12px;
+}
+
+.item:hover {
+  color: black;
+  background-color: #ffffffdd;
+  border: 2px solid black;
+  padding: 3px 10px;
+}
+
