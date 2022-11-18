@@ -1,12 +1,9 @@
 import React, { useState } from 'react';
-import LocationSelector from '../components/map/locationSelector';
+import LocationSelector, { getGeoJSON } from '../components/map/locationSelector';
 import Map from '../components/map/map';
 
 function MapPage() {
-  const [location, setLocation] = useState({
-    name: 'India',
-    latlng: [20, 77],
-  });
+  const [location, setLocation] = useState(getGeoJSON('India'));
   const z = 5;
 
   return (
@@ -15,7 +12,7 @@ function MapPage() {
         This is the map
       </h1>
       <LocationSelector location={location} setLocation={setLocation} />
-      <Map x={location.latlng[0]} y={location.latlng[1]} z={z} />
+      <Map location={location} z={z} />
     </div>
 
   );

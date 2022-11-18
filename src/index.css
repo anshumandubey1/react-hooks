@@ -93,15 +93,3 @@ li:hover {
   margin: 0px 10vw;
   height: 100vh;
 }
-
-.leaflet-container {
-  width: 80vw;
-  height: 50vh;
-}
-/* .map {
-  display: block;
-  width: 80vw;
-  height: 50vh;
-  background-color: black;
-  padding: 1rem;
-} */
