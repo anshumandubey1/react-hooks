@@ -17,19 +17,21 @@ input:focus {
 .list {
   position: absolute;
   z-index: 2000;
-  font-size: 20px;
   max-height: 200px;
   overflow-y: scroll;
   color: white;
   background-color: #000000dd;
 }
 
-.item {
-  width: 500px;
+button.item {
+  display: block;
+  width: 524px;
   padding: 5px 12px;
+  font-size: 20px;
+  margin: 0px;
 }
 
-.item:hover {
+button.item:hover {
   color: black;
   background-color: #ffffffdd;
   border: 2px solid black;

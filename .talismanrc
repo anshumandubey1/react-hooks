@@ -2,8 +2,6 @@ scopeconfig:
   - scope: node
 
 fileignoreconfig:
-- filename: src/constants/custom.geo.json
-  checksum: 7cdb0a7eaef5eb31b52112cb62c6fc16999b8edb7af05d5f10d4dd1a9292a789
-- filename: src/components/ui/Dropdown/Dropdown.jsx
-  checksum: cc439401e70f7acc02575b68d190c7039044a1b2981a6020804f7334c5975217
+- filename: src/components/map/map.jsx
+  checksum: 10c0c97a87b4562c4d403f8be8ae6bcb2fd916590f1d5f5f916e3360223160ec
 version: ""
