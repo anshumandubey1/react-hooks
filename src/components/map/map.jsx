@@ -20,6 +20,15 @@ L.Marker.prototype.options.icon = DefaultIcon;
 function MapHandler({ latlng, z }) {
   const map = useMap();
 
+  // const southWest = L.latLng(-89.98155760646617, -180);
+  // const northEast = L.latLng(89.99346179538875, 180);
+  // const bounds = L.latLngBounds(southWest, northEast);
+
+  // map.setMaxBounds(bounds);
+  // map.on('drag', () => {
+  //   map.panInsideBounds(bounds, { animate: true, duration: 1 });
+  // });
+
   useEffect(() => {
     map.flyTo(latlng, z);
   }, [latlng, z]);
@@ -61,27 +70,32 @@ function Label({ position, text, value }) {
   );
 }
 
-function Map({ location }) {
-  const x = location.properties.label_y;
-  const y = location.properties.label_x;
-  const z = 5;
+function Map({ locations }) {
+  const x = locations.at(-1).properties.label_y;
+  const y = locations.at(-1).properties.label_x;
+  const z = locations.length === 1 ? 5 : 2.5;
 
-  // console.log({ location, z });
+  // console.log({ locations, z });
   return (
-    <MapContainer center={[x, y]} zoom={z} scrollWheelZoom={false}>
+    <MapContainer center={[x, y]} zoom={z} scrollWheelZoom={false} options="{worldCopyJump:true}">
       <MapHandler latlng={[x, y]} z={z} />
       <TileLayer
         attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
         url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
       />
-      <GeoJSON key={location.properties.name_long} data={location} />
-      <Label position={[x, y]} text="Population" value={location.properties.pop_est} />
+      {locations.map((location) => (
+        <div key={location.properties.name_long}>
+          <GeoJSON key={location.properties.name_long} data={location} />
+          <Label position={[location.properties.label_y, location.properties.label_x]} text="Count" value={location.properties.pop_est} isSingle={locations.length === 1} />
+        </div>
+      ))}
+
     </MapContainer>
   );
 }
 
 Map.propTypes = {
-  location: PropTypes.shape().isRequired,
+  locations: PropTypes.arrayOf(PropTypes.shape()).isRequired,
 };
 
 export default Map;

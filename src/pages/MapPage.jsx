@@ -3,15 +3,15 @@ import LocationSelector, { getGeoJSON } from '../components/map/locationSelector
 import Map from '../components/map/map';
 
 function MapPage() {
-  const [location, setLocation] = useState(getGeoJSON('India'));
+  const [locations, setLocations] = useState([getGeoJSON('India')]);
 
   return (
     <div className="mapPage">
       <h1>
         This is the map
       </h1>
-      <LocationSelector location={location} setLocation={setLocation} />
-      <Map location={location} />
+      <LocationSelector locations={locations} setLocations={setLocations} />
+      <Map locations={locations} />
     </div>
 
   );

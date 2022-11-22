@@ -31,6 +31,16 @@ button.item {
   margin: 0px;
 }
 
+button.item.selected {
+  display: block;
+  width: 524px;
+  padding: 5px 12px;
+  font-size: 20px;
+  margin: 0px;
+  background-color: white;
+  color: black;
+}
+
 button.item:hover {
   color: black;
   background-color: #ffffffdd;

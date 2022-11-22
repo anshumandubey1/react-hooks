@@ -4,11 +4,11 @@
 }
 
 .label.leaflet-tooltip {
-  background-color: transparent;
-  border: transparent;
-  box-shadow: none;
+  background-color: #ffffff77;
+  /* border: transparent; */
+  /* box-shadow: none; */
   font-weight: bold;
-  font-size: 40px;
+  font-size: 12px;
 }
 
 .label.leaflet-tooltip-bottom:before {

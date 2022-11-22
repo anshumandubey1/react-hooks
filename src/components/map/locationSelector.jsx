@@ -14,16 +14,16 @@ export function getGeoJSON(name) {
   return null;
 }
 
-function LocationSelector({ location, setLocation }) {
-  const changeLocation = (value) => {
-    const geoJSON = getGeoJSON(value);
+function LocationSelector({ locations, setLocations }) {
+  const changeLocation = (values) => {
+    const geoJSONs = values.map((x) => getGeoJSON(x));
     // console.log({ value, geoJSON });
-    setLocation(geoJSON);
+    setLocations(geoJSONs);
   };
 
   return (
     <Dropdown
-      current={location.properties.name_long}
+      current={locations.map((x) => x.properties.name_long)}
       options={geoJSONData.features.map((x) => x.properties.name_long)}
       onChange={changeLocation}
     />
@@ -31,8 +31,8 @@ function LocationSelector({ location, setLocation }) {
 }
 
 LocationSelector.propTypes = {
-  location: PropTypes.shape().isRequired,
-  setLocation: PropTypes.func.isRequired,
+  locations: PropTypes.arrayOf(PropTypes.shape()).isRequired,
+  setLocations: PropTypes.func.isRequired,
 };
 
 export default LocationSelector;
